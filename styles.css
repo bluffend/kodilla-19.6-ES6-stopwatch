@@ -1,0 +1,29 @@
+.container {
+    width: 300px;
+    background-color: rgba(31, 87, 182, 0.644) ;
+    display: flex;
+    flex-direction: column;
+}
+
+.controls {
+    display: flex;
+    justify-content: center; 
+    margin-top: 30px;
+}
+
+.button {
+    width: 70px;
+    height: 30px;
+    display: flex;
+    justify-content: center;
+    font-size: 18px;
+    text-decoration: none;
+    font-weight: 600;
+    color: rgb(112, 210, 218);
+}
+
+.stopwatch {
+    display: flex;
+    justify-content: center;
+    font-size: 34px;
+}
